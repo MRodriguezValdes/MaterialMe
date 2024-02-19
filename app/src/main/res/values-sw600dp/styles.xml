@@ -1,0 +1,10 @@
+<!-- styles.xml en res/values-sw600dp -->
+<resources>
+    <style name="SportsTitle" parent="TextAppearance.AppCompat.Display1">
+        <!-- Define los atributos del estilo específicos para tabletas -->
+    </style>
+
+    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Body1">
+        <!-- Define los atributos del estilo específicos para tabletas -->
+    </style>
+</resources>
